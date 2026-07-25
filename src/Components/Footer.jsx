@@ -17,7 +17,7 @@ const Footer = () => {
           <div className="footer-logo w-full md:w-auto lg:w-auto flex flex-col items-center py-5 md:py-0 lg:py-0 gap-3 border-b border-gray-300 md:border-none lg:border-none">
             <Link to="/" className='flex gap-2 font-bold'>
               <img src='/images/TRIANGLE.png' alt='' />
-              <h1 className='text-xl'>Myport</h1>
+              <h1 className='text-xl'>CodeCraft</h1>
             </Link>
             <div className='flex md:hidden lg:hidden text-center text-lg'>
               Building modern digital solutions for businesses.
@@ -29,14 +29,14 @@ const Footer = () => {
               className='flex items-center gap-2 text-base'
             >
               <IoMdMail className='text-xl md:text-3xl lg:text-3xl' />
-              hi@myport.com
+              hi@codecraft.com
             </a>
             <a
               href='tel:432 - 221 - 8763'
               className='flex items-center gap-2 text-base'
             >
               <IoCall className='text-xl md:text-3xl lg:text-3xl' />
-              432 - 221 - 8763
+              +92 335 786394
             </a>
           </div>
           <div className='flex md:hidden lg:hidden text-center'>

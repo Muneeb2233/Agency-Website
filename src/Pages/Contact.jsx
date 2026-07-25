@@ -275,7 +275,7 @@ const Contact = () => {
                 <div className='flex flex-col gap-2'>
                   <h4 className='font-dm text-base font-bold'>Email</h4>
                   <p className='font-dm text-base text-gray-500'>
-                    hi@myport.com
+                    hi@codecraft.com
                   </p>
                 </div>
               </div>
